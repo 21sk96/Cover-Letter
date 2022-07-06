@@ -1,6 +1,6 @@
 # Cover-Letter
 
-Dear Sir/Madam,
+Dear Sir/Madam, /n
 I am pursuing my second Master’s degree in Management Analytics and am interested in working with your prestigious institute. I went through the job requirements, and I believe I am an ideal candidate. I have worked with Amazon in the past with their customer experience team and have the required cloud experience to support work in your organization. I also have been building predictive models using Python please do refer to my git profile for further evaluation. I also did sentiment analysis of customer VOCs using NLP techniques of Amazon app reviews and came up with shortcomings that were momentous in driving business decisions and improving services. 
 
 I also have been working towards AWS solution architect associate exam the coming month. I have good decision-making skills having to lead a team of more than 10 people as a senior business analyst at Bhopal Glues and Chemicals .
